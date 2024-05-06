@@ -1,4 +1,4 @@
-These files are the inputs for the enumeration of regular triangulations using MPTOPCOM.
+These files are the inputs for the enumeration of regular triangulations appearing in the paper "The Polyhedral Geometry of Truthful Auctions" by Michael Joswig, Max Klimm and Sylvain Spitz.
 To execute the computations, install MPTOPCOM and use
 
 /PATH/TO/OPENMPI/bin/mpirun /PATH/TO/MPTOPCOM/bin/mptopcom < FILE.dat > RESULT.out --regular
